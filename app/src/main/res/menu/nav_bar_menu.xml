@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/nav_myprofile"
+        android:title="My Profile"
+        android:icon="@drawable/ic_profile_user"
+        />
+    <item
+        android:id="@+id/nav_cart"
+        android:title="My Cart"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        />
+    <item
+        android:id="@+id/nav_orders"
+        android:title="My Orders"
+        android:icon="@drawable/ic_order"
+        />
+    <item
+        android:id="@+id/nav_sell"
+        android:title="Sell on XFORCE"
+        android:icon="@drawable/ic_sell_product_svgrepo_com"
+        />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+    <item
+        android:id="@+id/nav_share"
+        android:title="Share"
+        android:icon="@drawable/ic_baseline_share_24"
+        />
+    <item
+        android:id="@+id/nav_rate"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_baseline_rate_review_24"
+        />
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Log Out"
+        android:icon="@drawable/ic_logout"
+        />
+</menu>
